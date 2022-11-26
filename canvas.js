@@ -34,8 +34,8 @@ var Background = (function () {
     ZoomMax: 1.3,
   };
 
-  var SCREEN_WIDTH = 1280;
-  var SCREEN_HEIGHT = 720;
+  var SCREEN_WIDTH = 1920;
+  var SCREEN_HEIGHT = 1080;
 
   var Background = function () {
     this.init = this.init.bind(this);
